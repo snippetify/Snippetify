@@ -22,4 +22,11 @@ Feel free to leave any issues or any features you want us to add. You can contri
 Feel free to [contact us](https://snippetify.com/company/about#contact)
 
 ## Need help
+Need help with Snippetify? You've come to the right place!
 Follow this [link](https://snippetify.com/help)
+
+## Create a new issue
+If you have a question about Snippetify, [create a new issue](https://github.com/snippetify/Snippetify/issues/new) and ask there!
+
+## Participation
+Want to help others with issues? You can start simply, by answering open questions.
